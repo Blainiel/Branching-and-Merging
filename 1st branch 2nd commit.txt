@@ -1,1 +1,1 @@
-In the first branch this is the second commit.
+In the second branch this is the second commit.
